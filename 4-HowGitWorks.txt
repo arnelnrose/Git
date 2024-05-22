@@ -1,0 +1,15 @@
+HOW GIT WORKS
+
+Folder name: Client Project
+index.html
+stle.css
+script.js
+
+//Commands
+1. git init
+Repository
+(.git)
+
+2. git add .
+
+3. git commit -m "message"

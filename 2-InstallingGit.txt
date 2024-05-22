@@ -1,0 +1,24 @@
+INSTALLING GIT FOR WINDOWS
+
+1. Download Git for Windows
+>  https://git-scm.com/downloads
+2. Git Bash
+3. CheckShow the current version of git
+>  git -v
+4. Configurations
+
+#   We are telling Git who we are by providing our 
+    name and email to the GLOBAL configuration.
+
+>  git config --global user.name fakename
+>  git config --global user.email fakemail@fakemai.com
+
+#   The following lines have the same function as above
+    EXCEPT that this config is PER REPOSITORY
+    (meaning global config will be ignored).
+
+>  git config user.name fakename
+>  git config user.email fakemail@fakemai.com
+
+
+

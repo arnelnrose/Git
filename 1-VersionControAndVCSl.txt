@@ -1,0 +1,15 @@
+Version Control And Version Control
+            
+                WHAT IS VERSION CONTROL?
+    A task keeping a software system consisting of
+    many versions and configurations well organized.
+
+        What is Version Control System (VCS)?
+    Is a kind of software tools that helps 
+    in recording and tracking changes made to files.
+
+> A popular example of VCS is GIT.
+
+GIT - Created by Linuz Torvalds (Creator of Linux), in 2005
+
+
