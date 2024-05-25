@@ -1,0 +1,22 @@
+VERSION CONTROL TERMINOLOGIES
+
+Common Terminologies:
+1. Repository - A directory that contains your project work which
+                are use to communicate  with Git. Repositories
+                can exist either locally on your computer or as
+                a remote copy on another computer.
+2. Commit -     It is used to save your changes to the local repository.
+3. SHA -        It is basically an ID number for each commit.
+4. Working Directory - The directory in which you are currently working.
+5. Checkout -   It is the act of switching between different verion of A
+                target entity (a commit, branch, etc.).
+6. Staging Area/Index - It is files that are going to be a apart of the
+                next commit, which lets git know what changes in the file
+                are going to occur for the next commit.
+7. Branch -     It is a reprentation of an independent line of development.
+
+
+
+
+
+

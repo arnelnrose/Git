@@ -1,0 +1,7 @@
+STAGING FILES
+
+> git add . 
+> git status
+
+// REMOVING FILE IN STAGING
+>git rm --cached filename
