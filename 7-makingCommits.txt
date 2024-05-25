@@ -1,0 +1,13 @@
+MAKING COMMITS
+
+Perform staging
+> git add .
+
+Check status
+> git status
+
+Perform Commit
+> git commit -m "Adding Files 6 and 7."
+
+Check history in commit
+> git log --oneline
