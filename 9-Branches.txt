@@ -1,0 +1,14 @@
+BRANCHES
+
+> git log --oneline
+> git branch 
+> git branch branch_name
+
+SWITCHING BRANCH
+> git checkout branch_name
+
+SHORTCUT FOR SWITCHING BRANCH
+EXAMPLE:
+> git checkout -b new-feature
+
+

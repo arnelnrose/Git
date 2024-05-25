@@ -1,0 +1,30 @@
+MERGE BRANCHES WITH CONFLICTS
+
+MERGE COMMANDS
+
+Switch to Main or Master first
+> git branch
+> git checkout master
+> git branch
+> git merge feature
+
+Switch to Main or Master and DELETE Conflicts
+> git branch -d feature
+> git branch
+? git branch --oneline
+
+
+SHORTCUT FOR SWITCHING BRANCH
+EXAMPLE:
+> git checkout -b new-feature
+
+
+CONFLICTS BANCHES
+Switch to Main or Master
+> git merge new-feature
+
+FIX CONFLICTS
+> git status
+> git commit
+
+
