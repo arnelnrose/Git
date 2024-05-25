@@ -1,0 +1,17 @@
+UNDOING COMMITS
+
+CHECKOUT    - Switch branches or restore working tree files
+REVERT      - Revert some existing commits
+RESET       - Reset current HEAD to the specified state
+
+EXAMPLES:
+// CHECKOUT
+commit A | commit B | commit C | commit D |
+
+
+// REVERT (Additiong commit)
+commit A | commit B | commit C | commit D |  commit E |
+
+// REVERT (Totally remove commit - reset form commit E to Commit B)
+commit A | commit B
+
